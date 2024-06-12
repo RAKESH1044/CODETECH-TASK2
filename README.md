@@ -1,7 +1,10 @@
 # CODETECH-TASK2
 Title: CodeTech IT Solutions Internship - Task Documentation: Weather Forecast Application Using HTML, CSS, JavaScript 
+
 DOMAIN:Web development
+
 INTERN INFORMATION:
+
 Name: CHITTE RAKESH
 ID: CT08WD453
 
